@@ -5,26 +5,36 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#home"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Schnellstart"
+  url = "#quickstart"
   weight = 20
 
+#[[main]]
+#  name = "Technology & Tools"
+#  url = "#tandt"
+#  weight = 30
+
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Blog"
+  url = "post"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Links & Materialen"
+  url = "#links"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "Über uns"
+  url = "#people"
+  weight = 50
+
+[[main]]
+  name = "Kontakt"
   url = "#contact"
   weight = 60
 

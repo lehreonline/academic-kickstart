@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Team Lehre Online
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: ""
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +30,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/lehreonline
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +49,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- AutorInnen
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Der **Coronavirus** hält die Welt in Atem. Nicht nur in Deutschland und Europa, sondern weltweit steigt die Anzahl an gemeldeten Infektions- und leider auch Todesfällen. Auch viele Bildungseinrichtungen trifft diese Entwicklung und vor allem die damit einhergehenden Maßnahmen zur Eindämmung der Pandamie unvorbereitet. So sind mittlerweile **Schulen** und **Universitäten** in Deutschland und vielen weiteren Ländern bis auf Weiteres geschlossen. Sie erfordern eine **kurzfristige Umstellung** auf **Onlineformate**, um den Lehr- und Unterrichtsbetrieb aufrechtzuerhalten. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In unserer eigenen Erfahrung fehlt es kurzfristig jedoch oftmals an (finanziellen) Resourcen und Erfahrung, wie Lehre und Unterricht online gehalten werden können. So waren (und sind) wir selbst ebenfalls mit vielen Fragen und Unklarheiten konfrontiert. Diese haben uns dazu bewogen, diese Webseite zu erstellen, mit der wir zwei zentrale Ziele verfolgen:
+  
+  1. Wir wollen einen Überblick bieten, wie man in unserer Erfahrung mit relativ wenigen Schritten **Lehre** oder **Unterricht**  **online** mit Hilfe von **Open-Source**-Anwendungen bereitstellen kann. In erster Linie liegt der Fokus dabei auf Fragen der technischen Umsetzung. 
+  2. Wir wollen Links und Materialen sammeln und bereitstellen, die Lehrenden bei der praktischen Umsetzung von E-Learning helfen können
+
+Dabei betonen wir, dass die Situation in ihrer Gesamtheit für uns alle neu ist. Auch wir sammeln unsere Erfahrungen mit E-Learning zum ersten Mal. Aus diesen Gründen sind wir sehr offen für Anregungen, Hinweise und Kritik. Gerne laden wir Interessierte ein, ihre Erfahrungen auf unseren Blog zu veröffentlichen. Insgesamt hoffen wir, dass wir so eine hilfreiche Resource für Lehrende bereitstellen können.

@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Lehre Online Blog
 
 # View.
 #   1 = List
